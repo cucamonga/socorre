@@ -1,4 +1,5 @@
-# instalação
+# scorrre
+## 1
  npm i
-# executar
+## 2
  expo start
