@@ -1,3 +1,4 @@
-#instalação
-npm i
-expo start
+# instalação
+ npm i
+# executar
+ expo start
